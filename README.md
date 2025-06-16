@@ -35,7 +35,9 @@ It also provides **specific suggestions** on how to improve the password strengt
 
 ## 📸 Demo
 
-*You can include a screenshot or a short screen recording GIF here.*
+![Password1](https://github.com/user-attachments/assets/6be7ee83-3adc-48ee-b3d9-2c8febf29056)
+![Password2](https://github.com/user-attachments/assets/b6d38d70-2d68-4264-a80a-9f9089950e54)
+
 
 ## 🚀 How to Run
 
